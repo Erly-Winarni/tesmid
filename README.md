@@ -26,4 +26,4 @@ Proyek ini menyediakan skrip Python untuk menghitung domain dan range dari fungs
 ## Dependensi
 
 Proyek ini membutuhkan SymPy, pustaka Python untuk perhitungan simbolik matematika.
-* **Sympy
+* Sympy
